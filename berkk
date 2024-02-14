@@ -1,0 +1,4 @@
+sudo sh -c "curl <https://raw.githubusercontent.com/BlocklessNetwork/cli/main/download.sh> | bash"
+bls help
+bls login
+bls functions init
